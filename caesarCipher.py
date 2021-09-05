@@ -3,13 +3,13 @@
 
 import pyperclip
 # The string to be encrypeted/decrypted 
-message = ''
+message = 'Allen86161761$'
 
 # The encrytion /decription key:
 key = 13
 
 # Whether the program encrypts or decrypts:
-mode = 'decrypt'  # Set to either 'encrypt' or 'decrypt'
+mode = 'encrypt'  # Set to either 'encrypt' or 'decrypt'
 
 # Every possible symbol that can be encrypted:
 SYMBOLS = 'ABCDEFGHIJKLMNOPQRSTUVWXYZabcdefghijklmnopqrstuvwxyz123456789 !?.@#$%^&*()_-+=:;"<>/\|`~'
